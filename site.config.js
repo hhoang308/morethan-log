@@ -16,11 +16,11 @@ const CONFIG = {
       href: "https://github.com/hhoang308/water-meter",
     },
     {
-      name: `water meter monitor mobile app `,
+      name: `monitor mobile app `,
       href: "https://github.com/hhoang308/flutter-water-meter-monitor",
     },
     {
-      name: `smart spoon for patient`,
+      name: `smart spoon`,
       href: "https://github.com/hhoang308/smart-spoon",
     },
   ],
