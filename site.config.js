@@ -15,14 +15,6 @@ const CONFIG = {
       name: `smart water meter`,
       href: "https://github.com/hhoang308/water-meter",
     },
-    {
-      name: `monitor mobile app `,
-      href: "https://github.com/hhoang308/flutter-water-meter-monitor",
-    },
-    {
-      name: `smart spoon`,
-      href: "https://github.com/hhoang308/smart-spoon",
-    },
   ],
   // blog setting (required)
   blog: {
