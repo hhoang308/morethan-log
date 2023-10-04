@@ -12,14 +12,22 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Smart Water Meter`,
+      name: `smart water meter`,
       href: "https://github.com/hhoang308/water-meter",
+    },
+    {
+      name: `water meter monitor mobile app `,
+      href: "https://github.com/hhoang308/flutter-water-meter-monitor",
+    },
+    {
+      name: `smart spoon for patient`,
+      href: "https://github.com/hhoang308/smart-spoon",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "hoang-shares-knowledge",
+    description: "welcome to my blog. this blog folked and modified from morethan-log!",
     theme: "light",
   },
 
